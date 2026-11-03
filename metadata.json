@@ -1,0 +1,6 @@
+{
+  "name": "Interactive XSS Practical Playground",
+  "description": "Practical educational workbench demonstrating Cross-Site Scripting (XSS) with unsanitized rendering, live trigger callouts, exploit analysis, and secure mitigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
